@@ -1,0 +1,27 @@
+    /--------------------------------------/
+   /              EMarket                 /
+  /            Projet d'IHM              /
+ /       MALGORN, GEHAN, MANIEZ         /
+/--------------------------------------/
+
+|--------------------------------------|
+|  Structure des fichiers              |
+|--------------------------------------|
+
+  - Code source de l'application :
+        ./emarket/
+
+  - Ressources de l'application :
+        ./res/
+
+        --> Ces ressources permettent de rendre l'application plus
+            jolie, rien de plus.
+
+  - Javadoc :
+        ./javadoc/
+
+        --> Lancer le fichier index.html
+
+
+  - Notre compte-rendu de projet :
+        ./CompteRendu.pdf

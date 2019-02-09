@@ -1,0 +1,7 @@
+# My project
+out/
+src/META-INF/
+
+# Intellij
+*.iml
+.idea/
